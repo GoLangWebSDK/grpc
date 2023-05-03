@@ -1,4 +1,4 @@
-module gitlab.sintezis.co/sintezis/sdk/web/grpc
+module github.com/GoLangWebSDK/grpc
 
 go 1.20
 
